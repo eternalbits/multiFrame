@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>CFBundleDevelopmentRegion</key>		<string>English</string>
+		<key>CFBundleExecutable</key>				<string>universalJavaApplicationStub</string>
+		<key>CFBundleName</key>						<string>MultiFrame</string>
+		<key>CFBundleGetInfoString</key>			<string>MultiFrame version 1.0, Copyright Rui Baptista</string>
+		<key>CFBundleIconFile</key>					<string>calendar.icns</string>
+		<key>CFBundleIdentifier</key>				<string>MultiFrame</string>
+		<key>CFBundleInfoDictionaryVersion</key>	<string>6.0</string>
+		<key>CFBundlePackageType</key>				<string>APPL</string>
+		<key>CFBundleLongVersionString</key>		<string>1.0, Copyright Rui Baptista</string>
+		<key>CFBundleShortVersionString</key>		<string>1.0</string>
+		<key>CSResourcesFileMapped</key>			<true/>
+		<key>LSRequiresCarbon</key>					<true/>
+		<key>NSHumanReadableCopyright</key>			<string>Copyright Rui Baptista</string>
+		<key>NSPrincipalClass</key>					<string>NSApplication</string>
+		<key>NSHighResolutionCapable</key>			<true/>
+		<key>JavaX</key>
+		<dict>
+			<key>MainClass</key>					<string>multiFrame.MultiFrame</string>
+			<key>JVMVersion</key>					<string>1.8+</string>
+			<key>ClassPath</key>					<string>$JAVAROOT/MultiFrame.jar</string>
+			<key>WorkingDirectory</key>				<string>$JAVAROOT</string>
+		</dict>
+	</dict>
+</plist>
