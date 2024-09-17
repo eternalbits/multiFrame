@@ -22,5 +22,8 @@ MultiFrame is the current project. There are en, fr and pt-PT folders in the Jav
 | 12 Monterey | – | – | 11+ | 1.8+ | 1.8 |
 | 13 Ventura | – | – | 11+ | 1.8+ | 1.8 |
 | 14 Sonoma | – | – | 11+ | 1.8+ | 1.8 |
+| 15 Sequoia | – | – | 11+ | 1.8+ | 1.8 |
+
+CompactVD=11+ means that this program requires Java 11 or later, while JD-GUI=1.8 means that the program requires Java 1.8 precisely. You can see which Java programs are installed on your computer using the command `ls /Library/Java/JavaVirtualMachines`
 
 It seems to me that existing CompactVD settings don't justify adjacent folders, at least relative to the universalJavaApplicationStub.
